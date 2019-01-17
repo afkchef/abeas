@@ -211,7 +211,6 @@ footer {
     position:static;
     width:auto;
   }
-
   header {
     padding-right:320px;
   }
@@ -260,11 +259,15 @@ footer {
   header ul {
     width:99%;
   }
+  img.face {
+    max-width: 60%;
+  }
 
   header li, header ul li + li + li {
     width:33%;
   }
 }
+
 
 @media print {
   body {
