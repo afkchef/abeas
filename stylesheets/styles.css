@@ -108,6 +108,10 @@ img.face {
   max-width: 70%;
 }
 
+img.elev {
+  max-width: 49%;
+}
+
 header {
   width:270px;
   float:left;
