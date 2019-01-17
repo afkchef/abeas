@@ -103,6 +103,11 @@ img {
   max-width:100%;
 }
 
+img.face {
+  border-radius: 50%;
+  max-width: 75%;
+}
+
 header {
   width:270px;
   float:left;
