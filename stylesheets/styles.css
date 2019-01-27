@@ -110,8 +110,14 @@ img.face {
 
 img.elev {
   max-width: 49%;
+  height: 225px;
 }
 
+.img-div {
+  width: 500px;
+  display: table-cell;
+  text-align: center;
+}
 header {
   width:270px;
   float:left;
