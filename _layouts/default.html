@@ -8,7 +8,7 @@
 
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/pygment_trac.css">
-    <link rel="stylesheet" href="css/main.css"> <!--"//css/main.css"-->
+    <link rel="stylesheet" href="css/main.css"> <!--"{{ '/css/main.css' | prepend: site.baseurl }}"-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width">
       <!--[if lt IE 9]>
@@ -67,54 +67,7 @@
         <h1>Photo</h1><hr>
         <p>Gallery coming soon..</p>
 
-        
-    <div class="row">
-        <div class="column column-33">
-            <div class="preview-panel">
-                <a href="#"><!-- //2015/10/09/welcome-to-jekyll/ -->
-                    <img src="js/holder.js/300x300?auto=yes">
-                </a>
-                <div class="post-title">Welcome to Jekyll!</div>
-           </div>
-        </div>
-
-
-    
-        <div class="column column-33">
-            <div class="preview-panel">
-                <a href="#"><!-- //2015/10/08/welcome-to-jekyll/ -->
-                    <img src="js/holder.js/300x300?auto=yes">
-                </a>
-                <div class="post-title">Welcome to Jekyll!</div>
-           </div>
-        </div>
-
-
-    
-        <div class="column column-33">
-            <div class="preview-panel">
-                <a href="#"><!-- //2015/10/07/welcome-to-jekyll/ -->
-                    <img src="js/holder.js/300x300?auto=yes">
-                </a>
-                <div class="post-title">Welcome to Jekyll!</div>
-           </div>
-        </div>
-</div>
-
-    <div class="row">
-        <div class="column column-33">
-            <div class="preview-panel">
-                <a href="#"><!-- //2015/10/06/welcome-to-jekyll/ -->
-                    <img src="js/holder.js/300x300?auto=yes">
-                </a>
-                <div class="post-title">Welcome to Jekyll!</div>
-           </div>
-        </div>
-
-
-</div>
-
-
+        {{ content }}
 
         <a name="Writing"></a>
         <h1>Writing</h1><hr>
