@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Takeover"
-date:   2020-07-19 09:31
-preview: /media/bulbs.jpg
+title:  "Friend"
+date:   2020-07-19
+preview: /media/beach_talk.jpg
 ---
 
-![Picture 1](/media/bulbs.jpg)
+![Picture 1](/media/beach_talkBig.jpg)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Scripps
