@@ -5,6 +5,6 @@ date:   2020-07-19
 preview: /media/beach_talk.jpg
 ---
 
-![Picture 1](/media/beach_talkBig.jpg)
+![picture](/media/beach_talkBig.jpg)
 
 Scripps
