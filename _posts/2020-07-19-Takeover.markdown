@@ -2,9 +2,9 @@
 layout: post
 title:  "Friend"
 date:   2020-07-19
-preview: /assets/images/beach_talk.jpg
+preview: /assets/images/beach_talk.JPG
 ---
 
-![picture](/assets/images/beach_talkBig.jpg)
+![picture](/assets/images/beach_talkBig.JPG)
 
 Scripps
