@@ -3,8 +3,12 @@ layout: post
 title:  "Friend"
 date:   2020-07-19
 preview: /assets/images/beach_talk.JPG
+next.url: 
+previous.url: /2020/08/13/Breathe/
 ---
 
 ![picture](/assets/images/beach_talkBig.JPG)
 
 Scripps
+
+Fuji35mmF2

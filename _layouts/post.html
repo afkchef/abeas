@@ -4,10 +4,10 @@ layout: page
 <div class="post">
   <div class="post-nav">
     {% if page.next.url %}
-      <a class="nav-item" href="#">&laquo; Prev</a> <!--{{ page.next.url | prepend: site.baseurl }}-->
+      <a class="nav-item" href="{{ page.next.url | prepend: site.baseurl }}">&laquo; Prev</a> <!--{{ page.next.url | prepend: site.baseurl }}-->
     {% endif %}
     {% if page.previous.url %}
-      <a class="nav-item" href="#">Next &raquo;</a><!--{{ page.previous.url | prepend: site.baseurl }}-->
+      <a class="nav-item" href="{{ page.previous.url | prepend: site.baseurl }}">Next &raquo;</a><!--{{ page.previous.url | prepend: site.baseurl }}-->
     {% endif %}
   </div>
 
